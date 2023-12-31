@@ -1,0 +1,3 @@
+Pinecone_API_Key = ""
+PINECONE_ENVIRONMENT=""
+PINECONE_INDEX=""
